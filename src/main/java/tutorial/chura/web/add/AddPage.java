@@ -7,6 +7,7 @@ public class AddPage {
 	public Integer result;
 
 	public Class<?> doCalculate() {
+		result = arg1 + arg2;
 		return null;
 	}
 
